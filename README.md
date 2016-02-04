@@ -13,3 +13,7 @@ Applications currently in the iOS App Store, or the Google Play Store.
 Applications not submitted to any app store, but still noteworthy.
 
 - Dribbble Client [(Github)](https://github.com/catalinmiron/react-native-dribbble-app)
+
+## Contributing
+
+Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
